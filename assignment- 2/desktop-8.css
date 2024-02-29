@@ -1,0 +1,106 @@
+.latest-posts-from {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 343px);
+  font-size: var(--font-size-45xl);
+}
+.a-fall-from {
+  margin: 0;
+}
+.blog1-icon,
+.the-french-revolution-container {
+  position: absolute;
+  top: 113px;
+  left: 36px;
+}
+.blog1-icon {
+  top: 264px;
+  left: 74px;
+  border-radius: var(--br-xl);
+  width: 303px;
+  height: 330px;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor-container10,
+.low-cost-advertising {
+  position: absolute;
+  top: 615px;
+  left: 82px;
+  display: inline-block;
+  width: 406.4px;
+  height: 58.6px;
+}
+.lorem-ipsum-dolor-container10 {
+  top: 0;
+  left: 0;
+  width: 511px;
+  height: 177px;
+}
+.lorem-ipsum-dolor-sit-amet-con-wrapper {
+  position: absolute;
+  top: 674px;
+  left: 29px;
+  width: 511px;
+  height: 177px;
+  font-size: var(--font-size-5xl);
+}
+.low-cost-advertising1 {
+  position: absolute;
+  top: 612px;
+  left: 569px;
+  display: inline-block;
+  width: 406.4px;
+  height: 58.6px;
+}
+.lorem-ipsum-dolor12 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.lorem-ipsum-dolor-container12,
+.lorem-ipsum-dolor-sit-amet-adi-wrapper {
+  position: absolute;
+  top: 674px;
+  left: 540px;
+  width: 511px;
+  height: 177px;
+  font-size: var(--font-size-5xl);
+}
+.lorem-ipsum-dolor-container12 {
+  top: 668px;
+  left: 1028px;
+  display: inline-block;
+}
+.blog2-icon,
+.blog3-icon {
+  position: absolute;
+  top: 264px;
+  border-radius: var(--br-3xs);
+  width: 303px;
+  height: 330px;
+  object-fit: cover;
+}
+.blog2-icon {
+  left: calc(50% - 151px);
+}
+.blog3-icon {
+  left: 1063px;
+}
+.low-cost-advertising2 {
+  position: absolute;
+  top: 612px;
+  left: 1063px;
+  display: inline-block;
+  width: 406.4px;
+  height: 58.6px;
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 821px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-istok-web);
+}

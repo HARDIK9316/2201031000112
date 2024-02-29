@@ -1,0 +1,145 @@
+.the-french-revolution {
+  position: absolute;
+  top: 152px;
+  left: 197px;
+  display: inline-block;
+  width: 1005px;
+  height: 38px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 1023.3px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  width: 384.7px;
+  height: 556.3px;
+}
+.delectus-provident-aliquam {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container7 {
+  position: absolute;
+  top: 278.2px;
+  left: 1037.9px;
+  display: inline-block;
+  width: 355.6px;
+  height: 222.9px;
+}
+.image-5-icon,
+.review3-icon {
+  position: absolute;
+  top: 43.5px;
+  left: 1177.6px;
+  width: 86.2px;
+  height: 100.9px;
+  object-fit: cover;
+}
+.image-5-icon {
+  top: 187.9px;
+  left: 1148.5px;
+  width: 129.7px;
+  height: 91.3px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 511.7px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  width: 384.7px;
+  height: 556.3px;
+}
+.lorem-ipsum-dolor-container8 {
+  position: absolute;
+  top: 278.2px;
+  left: 526.2px;
+  display: inline-block;
+  width: 355.6px;
+  height: 222.9px;
+}
+.image-4-icon,
+.review1-icon {
+  position: absolute;
+  top: 43.5px;
+  left: 654.1px;
+  width: 100.1px;
+  height: 101px;
+  object-fit: cover;
+}
+.image-4-icon {
+  top: 187.9px;
+  left: 638.7px;
+  width: 129.7px;
+  height: 91.3px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  width: 384.7px;
+  height: 556.3px;
+}
+.lorem-ipsum-dolor-container9 {
+  position: absolute;
+  top: 278.2px;
+  left: 14.5px;
+  display: inline-block;
+  width: 355.6px;
+  height: 222.9px;
+}
+.image-3-icon,
+.review2-icon {
+  position: absolute;
+  top: 187.9px;
+  left: 117px;
+  width: 129.7px;
+  height: 91.3px;
+  object-fit: cover;
+}
+.review2-icon {
+  top: 29.7px;
+  left: 123.4px;
+  width: 104.3px;
+  height: 100.9px;
+}
+.rectangle-container,
+.rectangle-group,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 384.7px;
+  height: 556.3px;
+}
+.rectangle-group,
+.rectangle-parent {
+  width: 896.3px;
+}
+.rectangle-parent {
+  top: 247.7px;
+  left: 15px;
+  width: 1408px;
+}
+.testimonial-from-our {
+  position: absolute;
+  top: 54px;
+  left: calc(50% - 388px);
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  width: 775px;
+  height: 98px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 821px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-istok-web);
+}

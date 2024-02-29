@@ -1,0 +1,98 @@
+.francesca-saraco-ds27xggryq-u-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 821px;
+  object-fit: cover;
+}
+.desktop-10-child {
+  position: absolute;
+  top: 122px;
+  left: 464px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 492px;
+  height: 651px;
+}
+.login-page,
+.username {
+  position: absolute;
+  font-weight: 800;
+}
+.login-page {
+  top: 155px;
+  left: calc(50% - 174px);
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+}
+.username {
+  top: 312px;
+  left: 505px;
+}
+.desktop-10-item {
+  position: absolute;
+  top: 410.5px;
+  left: 504.5px;
+  border-top: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 320px;
+  height: 1px;
+}
+.password {
+  position: absolute;
+  top: 448px;
+  left: 505px;
+  font-weight: 800;
+}
+.desktop-10-inner {
+  position: absolute;
+  top: 549.5px;
+  left: 504.5px;
+  border-top: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 370px;
+  height: 1px;
+}
+.desktop-10-child1,
+.rectangle-icon {
+  position: absolute;
+  top: 638px;
+  height: 42px;
+}
+.desktop-10-child1 {
+  left: 505px;
+  background-color: #404f4f;
+  width: 151px;
+}
+.rectangle-icon {
+  left: calc(50% - 7px);
+  width: 150px;
+}
+.reset,
+.submit {
+  position: absolute;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.submit {
+  top: 641px;
+  left: 528px;
+  color: #f5f5f5;
+}
+.reset {
+  top: 639px;
+  left: calc(50% + 24px);
+  color: var(--color-white);
+}
+.desktop-10 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 821px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,239 @@
+.mainbg2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 821px;
+  object-fit: cover;
+}
+.sport-club {
+  position: absolute;
+  top: 156px;
+  left: 627px;
+  display: inline-block;
+  color: var(--color-whitesmoke-100);
+  width: 185px;
+  height: 88px;
+}
+.span3 {
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.royal-facilites2 {
+  font-size: var(--font-size-29xl);
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.royal-facilites1 {
+  white-space: pre-wrap;
+}
+.royal-facilites {
+  margin: 0;
+}
+.who-are-in {
+  color: #e1dada;
+  white-space: pre-wrap;
+}
+.who-are-in-extremely-love-with1 {
+  font-weight: 500;
+}
+.royal-facilites-who-container {
+  position: absolute;
+  top: 6px;
+  left: calc(50% - 379px);
+  display: inline-block;
+  width: 886px;
+  height: 97px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.desktop-3-child {
+  position: absolute;
+  top: 135px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  width: 473px;
+  height: 309px;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 254px;
+  left: 20px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 396px;
+  height: 132px;
+}
+.lorem-ipsum-dolor-container1,
+.lorem-ipsum-dolor-container2,
+.lorem-ipsum-dolor-container3,
+.lorem-ipsum-dolor-container4 {
+  position: absolute;
+  top: 649px;
+  left: 517px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 396px;
+  height: 108px;
+}
+.lorem-ipsum-dolor-container2,
+.lorem-ipsum-dolor-container3,
+.lorem-ipsum-dolor-container4 {
+  left: 20px;
+  color: var(--color-silver);
+}
+.lorem-ipsum-dolor-container3,
+.lorem-ipsum-dolor-container4 {
+  top: 249px;
+  left: 1005px;
+  width: 397px;
+  height: 107px;
+}
+.lorem-ipsum-dolor-container4 {
+  top: 257px;
+  left: 517px;
+  width: 396px;
+}
+.restaurant {
+  position: absolute;
+  top: 156px;
+  left: 110px;
+  display: inline-block;
+  color: var(--color-darkgray-100);
+  width: 205px;
+  height: 44px;
+}
+.desktop-3-item {
+  position: absolute;
+  top: 135px;
+  left: 482px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  width: 473px;
+  height: 309px;
+}
+.swimming-pool {
+  position: absolute;
+  top: 158px;
+  left: 1105px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 264px;
+  height: 45px;
+}
+.desktop-3-inner {
+  position: absolute;
+  top: 135px;
+  left: 964px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  width: 473px;
+  height: 309px;
+}
+.sports-icon,
+.swimming-icon {
+  position: absolute;
+  top: 153px;
+  left: 519px;
+  width: 47px;
+  height: 50px;
+  object-fit: cover;
+}
+.swimming-icon {
+  left: 1001px;
+  width: 48px;
+}
+.desktop-3-child1,
+.desktop-3-child2,
+.rectangle-div {
+  position: absolute;
+  top: 512px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  width: 473px;
+  height: 309px;
+}
+.desktop-3-child1,
+.desktop-3-child2 {
+  top: 510px;
+  left: 483px;
+  height: 308px;
+}
+.desktop-3-child2 {
+  left: 967px;
+}
+.bar,
+.rent-a-car {
+  position: absolute;
+  top: 543px;
+  left: 1142px;
+  display: inline-block;
+  color: var(--color-darkgray-300);
+  width: 85px;
+  height: 44px;
+}
+.rent-a-car {
+  top: 557px;
+  left: 138px;
+  color: var(--color-darkgray-100);
+  width: 177px;
+}
+.lorem-ipsum-dolor-container5 {
+  position: absolute;
+  top: 649px;
+  left: 1005px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 397px;
+  height: 133px;
+}
+.gymnasium {
+  position: absolute;
+  top: 557px;
+  left: 627px;
+  display: inline-block;
+  color: var(--color-darkgray-300);
+  width: 206px;
+  height: 44px;
+}
+.bar-icon,
+.gym-icon,
+.rent-car-icon,
+.restaurant-icon {
+  position: absolute;
+  top: 543px;
+  left: 1007px;
+  width: 47px;
+  height: 49px;
+  object-fit: cover;
+}
+.gym-icon,
+.rent-car-icon,
+.restaurant-icon {
+  top: 557px;
+  left: 543px;
+  height: 50px;
+}
+.rent-car-icon,
+.restaurant-icon {
+  top: 551px;
+  left: 39px;
+  width: 48px;
+}
+.restaurant-icon {
+  top: 150px;
+  left: 22px;
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 821px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkgray-200);
+  font-family: var(--font-inter);
+}

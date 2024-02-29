@@ -1,0 +1,122 @@
+.hotel-accomodation2 {
+  font-weight: 800;
+  white-space: pre-wrap;
+}
+.hotel-accomodation1 {
+  white-space: pre-wrap;
+}
+.hotel-accomodation {
+  margin: 0;
+}
+.span,
+.we-all-live {
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.we-all-live {
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: #474444;
+}
+.we-all-live-in-an-age-that-bel {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.hotel-accomodation-we-container {
+  position: absolute;
+  top: 78px;
+  left: calc(50% - 666px);
+  display: inline-block;
+  width: 1362px;
+  height: 101px;
+  font-size: var(--font-size-21xl);
+}
+.bedroom0-icon,
+.bedroom1-icon {
+  position: absolute;
+  top: 303px;
+  left: 0;
+  width: 326px;
+  height: 277px;
+  object-fit: cover;
+}
+.bedroom1-icon {
+  left: 348px;
+  height: 279px;
+}
+.double-delux-room,
+.per-day {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.per-day {
+  font-weight: 500;
+  color: #f11b1b;
+}
+.double-delux-room-container {
+  position: absolute;
+  top: 596px;
+  left: 29px;
+  display: inline-block;
+  width: 319px;
+}
+.bedroom2-icon,
+.bedroom3-icon {
+  position: absolute;
+  top: 303px;
+  left: 694px;
+  width: 326px;
+  height: 279px;
+  object-fit: cover;
+}
+.bedroom3-icon {
+  left: 1041px;
+  width: 399px;
+}
+.per-day1 {
+  margin: 0;
+  font-weight: 500;
+  color: #f21313;
+  white-space: pre-wrap;
+}
+.single-delux-room-container {
+  position: absolute;
+  top: 596px;
+  left: 393px;
+  display: inline-block;
+  width: 249px;
+}
+.per-day4 {
+  color: #fc0a0a;
+}
+.honeymoon-suit-800-container {
+  position: absolute;
+  top: 596px;
+  left: 756px;
+  display: inline-block;
+  width: 227px;
+}
+.per-day5 {
+  margin: 0;
+  font-weight: 500;
+  color: #f60a0a;
+  white-space: pre-wrap;
+}
+.economy-double-300-container {
+  position: absolute;
+  top: 596px;
+  left: 1141px;
+  display: inline-block;
+  width: 235px;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 821px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

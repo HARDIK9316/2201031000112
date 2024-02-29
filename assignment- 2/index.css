@@ -1,0 +1,90 @@
+.mainbg-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 9px;
+  width: 1440px;
+  height: 821px;
+  object-fit: cover;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 642px;
+  left: calc(50% - 156px);
+  border-radius: var(--br-3xs);
+  width: 312px;
+  height: 70px;
+}
+.enjoy-beautiful-journey {
+  margin: 0;
+}
+.with-us {
+  margin: 0;
+  color: #f7fbf5;
+  white-space: pre-wrap;
+}
+.enjoy-beautiful-journey-container {
+  position: absolute;
+  top: 302px;
+  left: calc(50% - 360px);
+  font-size: var(--font-size-45xl);
+  color: var(--color-limegreen);
+}
+.logo-icon {
+  position: absolute;
+  top: 29px;
+  left: 96px;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.search-hear {
+  position: absolute;
+  top: 48px;
+  left: 1187px;
+}
+.home-rooms-exterior {
+  position: absolute;
+  top: 48px;
+  left: calc(50% - 404px);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 807px;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 96.5px;
+  left: 1166.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 235px;
+  height: 1px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 53px;
+  left: 1381px;
+  width: 40px;
+  height: 34px;
+  object-fit: cover;
+}
+.book-now {
+  position: absolute;
+  top: 655px;
+  left: calc(50% - 78px);
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-whitesmoke-100);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 821px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

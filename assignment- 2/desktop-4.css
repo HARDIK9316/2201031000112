@@ -1,0 +1,53 @@
+.about-us {
+  margin: 0;
+}
+.about-us-our-container {
+  position: absolute;
+  top: 36px;
+  left: 92px;
+  font-weight: 800;
+}
+.mainbg3-icon {
+  position: absolute;
+  top: 10px;
+  left: 823px;
+  border-radius: 89px;
+  width: 593px;
+  height: 811px;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor-container6 {
+  position: absolute;
+  top: 343px;
+  left: 44px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  color: #58595a;
+}
+.request-custom-price {
+  position: absolute;
+  top: 569px;
+  left: 151px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-istok-web);
+}
+.desktop-4-child {
+  position: absolute;
+  top: 568px;
+  left: 135px;
+  border-radius: var(--br-3xs);
+  background-color: rgba(169, 165, 165, 0.51);
+  width: 372px;
+  height: 47px;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 821px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,93 @@
+.about-agency {
+  position: absolute;
+  top: 279px;
+  left: 42px;
+  font-size: var(--font-size-21xl);
+}
+.beatae-voluptas-qui {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container13 {
+  position: absolute;
+  top: 403px;
+  left: 36px;
+  color: var(--color-darkgray-200);
+}
+.navigation-links {
+  position: absolute;
+  top: 275px;
+  left: calc(50% - 166px);
+  font-size: var(--font-size-17xl);
+}
+.home {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.home-feature-services-container {
+  position: absolute;
+  top: 337px;
+  left: 581px;
+  color: var(--color-darkgray-200);
+}
+.newsletter {
+  position: absolute;
+  top: 275px;
+  left: 1083px;
+  font-size: var(--font-size-17xl);
+}
+.lorem-ipsum-dolor-container14 {
+  position: absolute;
+  top: 396px;
+  left: 963px;
+  color: #999894;
+}
+.desktop-9-child {
+  position: absolute;
+  top: 491px;
+  left: 958px;
+  background-color: #7c7878;
+  width: 468px;
+  height: 41px;
+}
+.entern-your-email {
+  position: absolute;
+  top: 497px;
+  left: 991px;
+}
+.facebook-icon,
+.image-2-icon,
+.instagram-icon,
+.linkedin-icon {
+  position: absolute;
+  top: 567px;
+  left: 1153px;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.facebook-icon,
+.image-2-icon,
+.linkedin-icon {
+  left: 1206px;
+}
+.image-2-icon,
+.linkedin-icon {
+  left: 1259px;
+}
+.image-2-icon {
+  top: 564px;
+  left: 1086px;
+  width: 43px;
+  height: 32px;
+}
+.desktop-9 {
+  width: 100%;
+  position: relative;
+  background-color: #0a2003;
+  height: 821px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
